@@ -1,0 +1,181 @@
+.nav-item {
+    margin-top: 10px;
+}
+
+.navbar-nav li a {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    margin: 8px 8px;
+    font-size: 13px;
+    transition-duration: 2s;
+}
+
+.navbar-nav li a:hover {
+    background-color: #99c50a;
+    color: #919293;
+}
+
+
+
+.banner_area {
+    padding: 80px 20px;
+    background-image: url(img/banner_bg_effact.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+}
+
+.banner_area h2 {
+    color: white;
+    font-size: 49px;
+    text-align: center;
+}
+
+.banner_area h4 {
+    color: white;
+    font-size: 35px;
+    text-align: center;
+    font-weight: 400;
+}
+
+.banner_area .btn_banner {
+    background-color: #99c50a;
+    padding: 16px 24px;
+    border-radius: 13px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 50px;
+
+}
+
+.presantation_area {
+    padding: 80px 20px;
+}
+
+.content {
+    margin-top: 60px;
+}
+
+.content h3 {
+    margin-top: 28px;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 28px;
+    color: #515151;
+}
+
+
+.content h4 {
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 28px;
+    color: #515151;
+    margin-top: -22px;
+    ;
+}
+
+.content p {
+    font-family: 'Open Sans', sans-serif;
+    color: #515151;
+    font-size: 19px;
+}
+
+.product {
+    padding: 80px 20px;
+}
+
+
+.properties_content {
+    margin: -42px 0px;
+}
+
+.properties_content2 {
+    margin: -42px 0px;
+}
+
+
+.properties_content h3 {
+    font-weight: 600;
+    font-size: 23px;
+    font-family: 'Montserrat', sans-serif;
+    color: #515151;
+}
+
+.properties_content p {
+    font-size: 17px;
+    margin: 25px 0px;
+    font-family: 'Montserrat', sans-serif;
+    color: #515151;
+}
+
+.Properties_btn {
+    padding: 10px 20px;
+    background-color: #26a6d1;
+    color: white;
+     border-radius: 21px;
+    
+}
+
+.properties_content2 h3 {
+    font-weight: 600;
+    font-size: 23px;
+    font-family: 'Montserrat', sans-serif;
+    color: #515151;
+
+}
+
+.properties_content2 p {
+    font-size: 17px;
+    margin: 25px 0px;
+    font-family: 'Montserrat', sans-serif;
+    color: #515151;
+}
+
+.buyer_btn {
+    padding: 10px 20px;
+    background-color: #add136;
+    color: white;
+    border-radius: 21px;
+}
+
+.feature_project {
+    padding: 80px 20px;
+}
+
+.project_wrape h3 {
+    font-size: 29px;
+    color: #515151;
+}
+
+
+.project_wrape p {
+    font-size: 17px;
+    color: #515151;
+    margin-top: 34px;
+}
+
+.project_btn{
+    padding: 20px 10px;
+        padding: 18px 49px;
+    margin-top: 42px;
+    background-color: white;
+    color: #515151;
+    border: 1pxsolid;
+    border: 1px solid #515151;
+    border-radius: 21px;
+
+}
+
+
+.blog_area{
+    padding: 60px 20px;
+}
+
+
+.foooter{
+    margin-top:40px;
+    color:  #515151;
+}
+
